@@ -1,2 +1,3 @@
 # revoked keys
+580a374003c79203
 nevskiydev
